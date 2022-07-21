@@ -1,0 +1,623 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ganat/Downloads/RISC_Final2.0/RISC/simulation/modelsim
+Ealu
+Z1 w1652301126
+Z2 DPx4 work 15 components_init 0 22 ULcleOK^Ud8_O98AdHejg3
+Z3 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 9
+R0
+Z6 8C:/Users/ganat/Downloads/RISC_Final2.0/RISC/alu.vhd
+Z7 FC:/Users/ganat/Downloads/RISC_Final2.0/RISC/alu.vhd
+l0
+L8 1
+VOzeTGL1UTUzj6M7z`Zc:?2
+!s100 `[INJPO@R>oSa]a0[_4jD0
+Z8 OV;C;2020.1;71
+31
+Z9 !s110 1652301180
+!i10b 1
+Z10 !s108 1652301180.000000
+Z11 !s90 -reportprogress|300|-93|-work|work|C:/Users/ganat/Downloads/RISC_Final2.0/RISC/alu.vhd|
+Z12 !s107 C:/Users/ganat/Downloads/RISC_Final2.0/RISC/alu.vhd|
+!i113 1
+Z13 o-93 -work work
+Z14 tExplicit 1 CvgOpt 0
+Aalu_arch
+R2
+R3
+R4
+R5
+DEx4 work 3 alu 0 22 OzeTGL1UTUzj6M7z`Zc:?2
+!i122 9
+l33
+L25 41
+VKj3o_EB=`=mF1^HC?:;FH2
+!s100 F1>2R^812YmZ>9c4^P_6^1
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Pcomponents_init
+R4
+R5
+!i122 5
+w1652300993
+R0
+8C:/Users/ganat/Downloads/RISC_Final2.0/RISC/all_components.vhd
+FC:/Users/ganat/Downloads/RISC_Final2.0/RISC/all_components.vhd
+l0
+L5 1
+VULcleOK^Ud8_O98AdHejg3
+!s100 V9nHO0BfXZblWRoiY2lRD2
+R8
+31
+Z15 !s110 1652301179
+!i10b 1
+Z16 !s108 1652301179.000000
+!s90 -reportprogress|300|-93|-work|work|C:/Users/ganat/Downloads/RISC_Final2.0/RISC/all_components.vhd|
+!s107 C:/Users/ganat/Downloads/RISC_Final2.0/RISC/all_components.vhd|
+!i113 1
+R13
+R14
+Econtrolpath
+Z17 w1652297786
+R4
+R5
+!i122 6
+R0
+Z18 8C:/Users/ganat/Downloads/RISC_Final2.0/RISC/RISC.vhd
+Z19 FC:/Users/ganat/Downloads/RISC_Final2.0/RISC/RISC.vhd
+l0
+L6 1
+VKRF8XZbmLjkXViUO:eBF20
+!s100 T@_e5]MXF2Mdd=:N2;K7A2
+R8
+31
+R15
+!i10b 1
+R16
+Z20 !s90 -reportprogress|300|-93|-work|work|C:/Users/ganat/Downloads/RISC_Final2.0/RISC/RISC.vhd|
+Z21 !s107 C:/Users/ganat/Downloads/RISC_Final2.0/RISC/RISC.vhd|
+!i113 1
+R13
+R14
+Astruct
+R4
+R5
+DEx4 work 11 controlpath 0 22 KRF8XZbmLjkXViUO:eBF20
+!i122 6
+l76
+L73 756
+V7[4<mOn4lHB1BCN`9S]^W2
+!s100 ^0>9^]d@F4PUNa>onz1g^3
+R8
+31
+R15
+!i10b 1
+R16
+R20
+R21
+!i113 1
+R13
+R14
+Edata_extension
+Z22 w1652297785
+R4
+R5
+!i122 4
+R0
+Z23 8C:/Users/ganat/Downloads/RISC_Final2.0/RISC/data_extension.vhd
+Z24 FC:/Users/ganat/Downloads/RISC_Final2.0/RISC/data_extension.vhd
+l0
+L5 1
+Ve1f59jIagDe;g?J:Kfm=D3
+!s100 Zk1JGkMc5DE:^gHTMX<Jc2
+R8
+31
+R15
+!i10b 1
+R16
+Z25 !s90 -reportprogress|300|-93|-work|work|C:/Users/ganat/Downloads/RISC_Final2.0/RISC/data_extension.vhd|
+Z26 !s107 C:/Users/ganat/Downloads/RISC_Final2.0/RISC/data_extension.vhd|
+!i113 1
+R13
+R14
+Ade
+R4
+R5
+DEx4 work 14 data_extension 0 22 e1f59jIagDe;g?J:Kfm=D3
+!i122 4
+l16
+L14 14
+V?:J95B<9zVR:OcZFoNQg]3
+!s100 PCO<>0D7PFZ2_H;`Xd>Mz2
+R8
+31
+R15
+!i10b 1
+R16
+R25
+R26
+!i113 1
+R13
+R14
+Edata_path
+R22
+R2
+R4
+R5
+!i122 14
+R0
+Z27 8C:/Users/ganat/Downloads/RISC_Final2.0/RISC/data_path.vhd
+Z28 FC:/Users/ganat/Downloads/RISC_Final2.0/RISC/data_path.vhd
+l0
+L7 1
+VRZ?aP[aClHz6jnXUEEbOf1
+!s100 51Hf?H79z24??T33Nf0jL2
+R8
+31
+Z29 !s110 1652301181
+!i10b 1
+Z30 !s108 1652301181.000000
+Z31 !s90 -reportprogress|300|-93|-work|work|C:/Users/ganat/Downloads/RISC_Final2.0/RISC/data_path.vhd|
+!s107 C:/Users/ganat/Downloads/RISC_Final2.0/RISC/data_path.vhd|
+!i113 1
+R13
+R14
+Acompute
+R2
+R4
+R5
+DEx4 work 9 data_path 0 22 RZ?aP[aClHz6jnXUEEbOf1
+!i122 14
+l152
+L87 246
+Vj^of7X`<e@8c4VoAKX;9f3
+!s100 ZM?_LDaFYG3RD;zB8OA9Y3
+R8
+31
+R29
+!i10b 1
+R30
+R31
+Z32 !s107 C:/Users/ganat/Downloads/RISC_Final2.0/RISC/data_path.vhd|
+!i113 1
+R13
+R14
+Einst_register_data
+R17
+R4
+R5
+!i122 3
+R0
+Z33 8C:/Users/ganat/Downloads/RISC_Final2.0/RISC/inst_register_data.vhd
+Z34 FC:/Users/ganat/Downloads/RISC_Final2.0/RISC/inst_register_data.vhd
+l0
+L5 1
+Vm=i6gV@CQQNQ1?24mz0gM3
+!s100 8d;mlN5BLTQN]P9mT8eXa0
+R8
+31
+R15
+!i10b 1
+R16
+Z35 !s90 -reportprogress|300|-93|-work|work|C:/Users/ganat/Downloads/RISC_Final2.0/RISC/inst_register_data.vhd|
+Z36 !s107 C:/Users/ganat/Downloads/RISC_Final2.0/RISC/inst_register_data.vhd|
+!i113 1
+R13
+R14
+Air_inst
+R4
+R5
+DEx4 work 18 inst_register_data 0 22 m=i6gV@CQQNQ1?24mz0gM3
+!i122 3
+l18
+L16 15
+VAKjK>2O@Zl=Qbd`1cGE_12
+!s100 JH0@aPIfLA@a0WF56^A^42
+R8
+31
+R15
+!i10b 1
+R16
+R35
+R36
+!i113 1
+R13
+R14
+Einstruction_register
+R17
+R2
+R4
+R5
+!i122 13
+R0
+Z37 8C:/Users/ganat/Downloads/RISC_Final2.0/RISC/instruction_register.vhd
+Z38 FC:/Users/ganat/Downloads/RISC_Final2.0/RISC/instruction_register.vhd
+l0
+L9 1
+VN4N9Izkk94Ojl1jl@;e:F2
+!s100 ]dBU2R>[7aIm5f384[N>:3
+R8
+31
+R29
+!i10b 1
+R30
+Z39 !s90 -reportprogress|300|-93|-work|work|C:/Users/ganat/Downloads/RISC_Final2.0/RISC/instruction_register.vhd|
+Z40 !s107 C:/Users/ganat/Downloads/RISC_Final2.0/RISC/instruction_register.vhd|
+!i113 1
+R13
+R14
+Air
+R2
+R4
+R5
+DEx4 work 20 instruction_register 0 22 N4N9Izkk94Ojl1jl@;e:F2
+!i122 13
+l39
+L34 26
+VELEl_O8@PJ9_Wc=W5E6n63
+!s100 7Z>NkgZUVn1an_>Bo;bGA1
+R8
+31
+R29
+!i10b 1
+R30
+R39
+R40
+!i113 1
+R13
+R14
+Ememory
+R17
+R3
+R2
+R4
+R5
+!i122 12
+R0
+Z41 8C:/Users/ganat/Downloads/RISC_Final2.0/RISC/memory.vhd
+Z42 FC:/Users/ganat/Downloads/RISC_Final2.0/RISC/memory.vhd
+l0
+L9 1
+Vn[AYlLWS^aI4Y?8QXgF7g1
+!s100 f4amLFL_F>7USf=<[E8UW0
+R8
+31
+R29
+!i10b 1
+R10
+Z43 !s90 -reportprogress|300|-93|-work|work|C:/Users/ganat/Downloads/RISC_Final2.0/RISC/memory.vhd|
+Z44 !s107 C:/Users/ganat/Downloads/RISC_Final2.0/RISC/memory.vhd|
+!i113 1
+R13
+R14
+Amemory_comp
+R3
+R2
+R4
+R5
+DEx4 work 6 memory 0 22 n[AYlLWS^aI4Y?8QXgF7g1
+!i122 12
+l38
+L34 157
+Vk:4@Hh@mV[1TPj@cDkN:63
+!s100 BBMZh_X[0z7=3LdGJGZcM0
+R8
+31
+R29
+!i10b 1
+R10
+R43
+R44
+!i113 1
+R13
+R14
+Epriorityencoder
+R17
+R4
+R5
+!i122 2
+R0
+Z45 8C:/Users/ganat/Downloads/RISC_Final2.0/RISC/PriorityEncoder.vhd
+Z46 FC:/Users/ganat/Downloads/RISC_Final2.0/RISC/PriorityEncoder.vhd
+l0
+L4 1
+VOBIm=86F`gi@_L7@5hlU]2
+!s100 VZN<:M^6B=[=D55HkTfbf3
+R8
+31
+R15
+!i10b 1
+R16
+Z47 !s90 -reportprogress|300|-93|-work|work|C:/Users/ganat/Downloads/RISC_Final2.0/RISC/PriorityEncoder.vhd|
+Z48 !s107 C:/Users/ganat/Downloads/RISC_Final2.0/RISC/PriorityEncoder.vhd|
+!i113 1
+R13
+R14
+Abehave
+R4
+R5
+DEx4 work 15 priorityencoder 0 22 OBIm=86F`gi@_L7@5hlU]2
+!i122 2
+l13
+L11 35
+VS?a<>]2lLcLKJiVKW4gZA2
+!s100 RHKTaMT>OD]Z`hLd@GFjO3
+R8
+31
+R15
+!i10b 1
+R16
+R47
+R48
+!i113 1
+R13
+R14
+Ereg_file
+R17
+R2
+R4
+R5
+!i122 11
+R0
+Z49 8C:/Users/ganat/Downloads/RISC_Final2.0/RISC/reg_file.vhd
+Z50 FC:/Users/ganat/Downloads/RISC_Final2.0/RISC/reg_file.vhd
+l0
+L7 1
+V;0=IX>jMR]eDcO_H_m;[40
+!s100 k?RJa9NaI9T?4n2IV]cnW3
+R8
+31
+R9
+!i10b 1
+R10
+Z51 !s90 -reportprogress|300|-93|-work|work|C:/Users/ganat/Downloads/RISC_Final2.0/RISC/reg_file.vhd|
+Z52 !s107 C:/Users/ganat/Downloads/RISC_Final2.0/RISC/reg_file.vhd|
+!i113 1
+R13
+R14
+Arf
+R2
+R4
+R5
+DEx4 work 8 reg_file 0 22 ;0=IX>jMR]eDcO_H_m;[40
+!i122 11
+l47
+L36 94
+V6]_X:M]Y@iEVk:FzDPHQe3
+!s100 gkdJkc_1:8Y_9Q]3gIGeb0
+R8
+31
+R9
+!i10b 1
+R10
+R51
+R52
+!i113 1
+R13
+R14
+Eregister_data
+R17
+R4
+R5
+!i122 1
+R0
+Z53 8C:/Users/ganat/Downloads/RISC_Final2.0/RISC/register_data.vhd
+Z54 FC:/Users/ganat/Downloads/RISC_Final2.0/RISC/register_data.vhd
+l0
+L7 1
+V_608FKo:FondfRkQAQjGa1
+!s100 fETB[CTH1O^7og:MOc<GC1
+R8
+31
+Z55 !s110 1652301178
+!i10b 1
+Z56 !s108 1652301178.000000
+Z57 !s90 -reportprogress|300|-93|-work|work|C:/Users/ganat/Downloads/RISC_Final2.0/RISC/register_data.vhd|
+Z58 !s107 C:/Users/ganat/Downloads/RISC_Final2.0/RISC/register_data.vhd|
+!i113 1
+R13
+R14
+Areg_data
+R4
+R5
+DEx4 work 13 register_data 0 22 _608FKo:FondfRkQAQjGa1
+!i122 1
+l19
+L17 12
+ViX<n^RZ[AjDeD>[H[T_kX3
+!s100 U<6hh`Xd0oSd<G5`U10VU0
+R8
+31
+R55
+!i10b 1
+R56
+R57
+R58
+!i113 1
+R13
+R14
+Eshifter_1
+Z59 w1652297787
+R4
+R5
+!i122 7
+R0
+Z60 8C:/Users/ganat/Downloads/RISC_Final2.0/RISC/Shifter.vhd
+Z61 FC:/Users/ganat/Downloads/RISC_Final2.0/RISC/Shifter.vhd
+l0
+L7 1
+Vd]izDCz;1fUZ@i4U[l>;_0
+!s100 W[XGFG[>gV`nnkTgzfa0^0
+R8
+31
+R9
+!i10b 1
+R16
+Z62 !s90 -reportprogress|300|-93|-work|work|C:/Users/ganat/Downloads/RISC_Final2.0/RISC/Shifter.vhd|
+Z63 !s107 C:/Users/ganat/Downloads/RISC_Final2.0/RISC/Shifter.vhd|
+!i113 1
+R13
+R14
+As1
+R4
+R5
+DEx4 work 9 shifter_1 0 22 d]izDCz;1fUZ@i4U[l>;_0
+!i122 7
+l19
+L16 8
+V6e`M3BJXT6AcZM6NbW4be0
+!s100 <UCdfI[1I4YH[WV`V@0>T1
+R8
+31
+R9
+!i10b 1
+R16
+R62
+R63
+!i113 1
+R13
+R14
+Esign_extender_6
+R59
+R4
+R5
+!i122 0
+R0
+Z64 8C:/Users/ganat/Downloads/RISC_Final2.0/RISC/sign_extender_6.vhd
+Z65 FC:/Users/ganat/Downloads/RISC_Final2.0/RISC/sign_extender_6.vhd
+l0
+L7 1
+Vj6l<i2A4_[:UAM;;BEfc@2
+!s100 _5L5P@LD?VR]DW[075D2S1
+R8
+31
+R55
+!i10b 1
+R56
+Z66 !s90 -reportprogress|300|-93|-work|work|C:/Users/ganat/Downloads/RISC_Final2.0/RISC/sign_extender_6.vhd|
+Z67 !s107 C:/Users/ganat/Downloads/RISC_Final2.0/RISC/sign_extender_6.vhd|
+!i113 1
+R13
+R14
+Ase6
+R4
+R5
+DEx4 work 15 sign_extender_6 0 22 j6l<i2A4_[:UAM;;BEfc@2
+!i122 0
+l19
+L16 17
+VzG<S4EPm_QUB8P<gH:R7g0
+!s100 6Hb[aXE43MFC]YX:>G[NJ2
+R8
+31
+R55
+!i10b 1
+R56
+R66
+R67
+!i113 1
+R13
+R14
+Esign_extender_9
+R59
+R2
+R4
+R5
+!i122 10
+R0
+Z68 8C:/Users/ganat/Downloads/RISC_Final2.0/RISC/sign_extender_9.vhd
+Z69 FC:/Users/ganat/Downloads/RISC_Final2.0/RISC/sign_extender_9.vhd
+l0
+L7 1
+V>@c_zEGJCS7QbOZhOV2Ng3
+!s100 ?ieFKj]X:kb_Q=b^5k2T02
+R8
+31
+R9
+!i10b 1
+R10
+Z70 !s90 -reportprogress|300|-93|-work|work|C:/Users/ganat/Downloads/RISC_Final2.0/RISC/sign_extender_9.vhd|
+Z71 !s107 C:/Users/ganat/Downloads/RISC_Final2.0/RISC/sign_extender_9.vhd|
+!i113 1
+R13
+R14
+Ase9
+R2
+R4
+R5
+DEx4 work 15 sign_extender_9 0 22 >@c_zEGJCS7QbOZhOV2Ng3
+!i122 10
+l18
+L16 13
+VahaB=ASC[zNgfmgZjFbEl3
+!s100 EUzPJlQKJEj0AXA7meQ<L3
+R8
+31
+R9
+!i10b 1
+R10
+R70
+R71
+!i113 1
+R13
+R14
+Etoplevel
+Z72 w1652298336
+R4
+R5
+!i122 8
+R0
+Z73 8C:/Users/ganat/Downloads/RISC_Final2.0/RISC/Toplevel.vhdl
+Z74 FC:/Users/ganat/Downloads/RISC_Final2.0/RISC/Toplevel.vhdl
+l0
+L5 1
+Vdlzo05iij[cf1dPE]]Ce01
+!s100 Iek`gNV9ERLmin6?n^8FF1
+R8
+31
+R9
+!i10b 1
+R10
+Z75 !s90 -reportprogress|300|-93|-work|work|C:/Users/ganat/Downloads/RISC_Final2.0/RISC/Toplevel.vhdl|
+Z76 !s107 C:/Users/ganat/Downloads/RISC_Final2.0/RISC/Toplevel.vhdl|
+!i113 1
+R13
+R14
+Astruct
+R4
+R5
+DEx4 work 8 toplevel 0 22 dlzo05iij[cf1dPE]]Ce01
+!i122 8
+l152
+L9 156
+V3R9>NMSYnLIefJcgA23NL0
+!s100 MPWj84:7iAj4K@FT9P8GW2
+R8
+31
+R9
+!i10b 1
+R10
+R75
+R76
+!i113 1
+R13
+R14
